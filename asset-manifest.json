@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spodify/static/css/main.0f608a89.chunk.css",
-    "main.js": "/spodify/static/js/main.1a0ff048.chunk.js",
-    "main.js.map": "/spodify/static/js/main.1a0ff048.chunk.js.map",
+    "main.js": "/spodify/static/js/main.474420c8.chunk.js",
+    "main.js.map": "/spodify/static/js/main.474420c8.chunk.js.map",
     "runtime-main.js": "/spodify/static/js/runtime-main.8ff9a6dd.js",
     "runtime-main.js.map": "/spodify/static/js/runtime-main.8ff9a6dd.js.map",
     "static/js/2.060c55c5.chunk.js": "/spodify/static/js/2.060c55c5.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.8ff9a6dd.js",
     "static/js/2.060c55c5.chunk.js",
     "static/css/main.0f608a89.chunk.css",
-    "static/js/main.1a0ff048.chunk.js"
+    "static/js/main.474420c8.chunk.js"
   ]
 }
