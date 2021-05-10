@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/spodify/static/css/main.f14a4066.chunk.css",
-    "main.js": "/spodify/static/js/main.1680c642.chunk.js",
-    "main.js.map": "/spodify/static/js/main.1680c642.chunk.js.map",
+    "main.js": "/spodify/static/js/main.3dfb27fe.chunk.js",
+    "main.js.map": "/spodify/static/js/main.3dfb27fe.chunk.js.map",
     "runtime-main.js": "/spodify/static/js/runtime-main.8ff9a6dd.js",
     "runtime-main.js.map": "/spodify/static/js/runtime-main.8ff9a6dd.js.map",
-    "static/js/2.060c55c5.chunk.js": "/spodify/static/js/2.060c55c5.chunk.js",
-    "static/js/2.060c55c5.chunk.js.map": "/spodify/static/js/2.060c55c5.chunk.js.map",
+    "static/js/2.30790b4c.chunk.js": "/spodify/static/js/2.30790b4c.chunk.js",
+    "static/js/2.30790b4c.chunk.js.map": "/spodify/static/js/2.30790b4c.chunk.js.map",
     "index.html": "/spodify/index.html",
     "static/css/main.f14a4066.chunk.css.map": "/spodify/static/css/main.f14a4066.chunk.css.map",
-    "static/js/2.060c55c5.chunk.js.LICENSE.txt": "/spodify/static/js/2.060c55c5.chunk.js.LICENSE.txt",
+    "static/js/2.30790b4c.chunk.js.LICENSE.txt": "/spodify/static/js/2.30790b4c.chunk.js.LICENSE.txt",
     "static/media/favicon.6f89bff5.jpg": "/spodify/static/media/favicon.6f89bff5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8ff9a6dd.js",
-    "static/js/2.060c55c5.chunk.js",
+    "static/js/2.30790b4c.chunk.js",
     "static/css/main.f14a4066.chunk.css",
-    "static/js/main.1680c642.chunk.js"
+    "static/js/main.3dfb27fe.chunk.js"
   ]
 }
